@@ -1,6 +1,6 @@
 # British Airways Virtual Internship
 
-![britishairways_216861253015751](https://github.com/rhythmd18/British-Airways-Virtual-Internship/assets/109751995/88d0994b-99f0-427b-93c4-48af7a9bbb65)
+![britishairways_216861253015751](https://github.com/rhythmd18/British-Airways-Virtual-Internship/assets/109751995/5791fff7-f414-4500-972e-b69161d8889b)
 
 This repository contains the code and data for two projects that I completed during my internship at BRITISH AIRWAYS.
 
